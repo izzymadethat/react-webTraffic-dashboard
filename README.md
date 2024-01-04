@@ -1,0 +1,3 @@
+# Simple React Webpage Views Dashboard
+
+All data has been hard coded for aesthetics only...
